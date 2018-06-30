@@ -1,0 +1,31 @@
+[
+  {
+    "id":1,
+    "name":"Hardware Repair",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue facilisis eros consequat egestas. Nunc viverra enim eu nunc aliquam, in feugiat leo eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames acrpis egestas. Quisque est velit, pharetra quis ligula et, bibendum elementum ipsum. Curabitur euismod augue nec quam ullamcorper, a consectetur nibh fringilla. Phasellus aliquam nec mauris sed ornare. Mauris dictum posuere diam, sit amet dictum nisl lobortis commodo.",
+    "img":"http://icons.iconarchive.com/icons/martz90/circle-addon2/512/computer-icon.png"
+  },
+  
+  {
+    "id":2,
+    "name":"Virus Removal",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue facilisis eros consequat egestas. Nunc viverra enim eu nunc aliquam, in feugiat leo eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames acrpis egestas. Quisque est velit, pharetra quis ligula et, bibendum elementum ipsum. Curabitur euismod augue nec quam ullamcorper, a consectetur nibh fringilla. Phasellus aliquam nec mauris sed ornare. Mauris dictum posuere diam, sit amet dictum nisl lobortis commodo.",
+    "img":"http://icons.iconarchive.com/icons/martz90/circle-addon2/512/computer-icon.png"
+  },
+  
+  {
+    "id":3,
+    "name":"System Tuneup",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue facilisis eros consequat egestas. Nunc viverra enim eu nunc aliquam, in feugiat leo eleifend. Pellentesque habitant morbi tristique senectus et netus et malesuada fames acrpis egestas. Quisque est velit, pharetra quis ligula et, bibendum elementum ipsum. Curabitur euismod augue nec quam ullamcorper, a consectetur nibh fringilla. Phasellus aliquam nec mauris sed ornare. Mauris dictum posuere diam, sit amet dictum nisl lobortis commodo.",
+    "img":"http://icons.iconarchive.com/icons/martz90/circle/512/total-commander-icon.png"
+  },
+  
+  {
+    "id":3,
+    "name":"Test",
+    "description":"test",
+    "img":"http://icons.iconarchive.com/icons/martz90/circle-addon2/512/computer-icon.png"
+  }
+  
+  
+]

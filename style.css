@@ -1,0 +1,40 @@
+/* Styles go here */
+
+img{
+  width:100%;
+}
+h1{
+  font-family:arial helvetica sans-serif;
+}
+
+.service{
+  border-bottom:2px solid #eee;
+  padding : 1.5em;
+}
+
+.main{
+  padding:2em;
+  margin:2em;
+  
+}
+
+li{
+  list-style:none;
+}
+
+footer{
+  margin: 2em;
+  text-align:center;
+}
+
+.mainView{
+    padding:2em;
+}
+
+.location{
+  border-bottom:solid 1px #eee;
+  margin-bottom:2em;
+}
+.card-title,.card-text{
+  text-align:center;
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "road":"Road 1",
+    "city":"Dream City",
+    "landmark":"Wonderland",
+    "state":"Amsterdam",
+    "pin":"100-123"
+  },
+  {
+    "road":"Street 2",
+    "city":"Local City",
+    "landmark":"Disneyland",
+    "state":"Las Vegas",
+    "pin":"400-685"
+  }
+]
